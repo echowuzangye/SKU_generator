@@ -2,5 +2,6 @@ streamlit
 pandas
 io
 itertools
-openpyxl
+openpyxl==3.1.2
 re
+
