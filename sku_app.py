@@ -3,6 +3,7 @@ import pandas as pd
 import itertools
 import re
 import io
+import openpyxl
 
 st.title("Product SKU Generator")
 
